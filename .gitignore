@@ -1,0 +1,6 @@
+# ignore debug files
+/data-structures-practice/Debug/
+/data-structures-practice/Release/
+
+#ignore go-back files
+*.sdf
