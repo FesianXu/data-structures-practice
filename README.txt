@@ -1,1 +1,2 @@
-数据结构练习, 循环缓冲队列。
+data structures practices: recycle buffer queues.
+Realize the push, pop, clean, push force , push a string etc. operations
