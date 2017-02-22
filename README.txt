@@ -1,1 +1,1 @@
-data structures practice, compile in window 7.Can easily migrate into MCU embedded systems.
+数据结构练习, 循环缓冲队列。

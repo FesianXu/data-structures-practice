@@ -13,7 +13,7 @@
 
 #define _API_CPP_BUF_
 #define _OUT_CPP_BUF_
-#define _LENGTH_BUFFER_CELL_ 10 // the size of each buffer cell
+#define _LENGTH_BUFFER_CELL_ 5 // the size of each buffer cell
 
 
 typedef struct BufferCell

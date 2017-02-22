@@ -4,3 +4,4 @@
 
 #ignore go-back files
 *.sdf
+*.opensdf

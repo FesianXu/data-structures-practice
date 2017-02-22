@@ -68,6 +68,9 @@
   <ItemGroup>
     <ClInclude Include="..\cpp_buf\cpp_buf.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\README.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
