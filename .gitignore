@@ -1,7 +1,6 @@
 # ignore debug files
-/data-structures-practice/Debug/
-/data-structures-practice/Release/
-
-#ignore go-back files
-*.sdf
-*.opensdf
+/cpp_buf_string/Debug/*
+/cpp_buf_string/Release/*
+/cpp_buf_string/.vs/*
+/cpp_buf_string/*.sdf
+/cpp_buf_string/cpp_buf_string/Debug/*
